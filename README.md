@@ -20,6 +20,9 @@ API, ботов VK или сторонних серверов нет — вся 
 - Поддержка Firefox (Manifest V2) и Chrome/Edge (Manifest V3)
 - Консольный и фоновый режимы (иконка в трее, автозапуск с Windows)
 
+<img width="281" height="118" alt="изображение" src="https://github.com/user-attachments/assets/988fd0ce-3c99-4142-a525-0062e170d547" />
+
+
 ## Установка (готовая сборка)
 
 ### Браузерное расширение
