@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# PyInstaller build artifacts (пересобираются из исходников)
+build/
+dist/
+
+# Собранный exe — раздаём через GitHub Releases, а не коммитим бинарник
+VKM RPC.exe
+
+# Личные runtime-файлы — создаются автоматически при первом запуске,
+# в репозитории им делать нечего (не шаблоны, а твои реальные данные)
+config.txt
+vkrpc.log
+
+# Артефакты сборки/подписи web-ext (сам .xpi раздаём через Releases)
+vkrpc-extension/web-ext-artifacts/
+vkrpc-extension/.amo-upload-uuid
