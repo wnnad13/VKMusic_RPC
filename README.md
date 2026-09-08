@@ -19,7 +19,7 @@ API, ботов VK или сторонних серверов нет — вся 
 - Автоматическая пересинхронизация после сбоев VK, перезапуска
   Discord или самого скрипта
 - Поддержка Firefox (Manifest V2) и Chrome/Edge (Manifest V3)
-- Консольный и фоновый режимы (иконка в трее, автозапуск с Windows)
+- Консольный или фоновый режим (иконка в трее, автозапуск с Windows)
 
 <img width="288" height="98" alt="изображение" src="https://github.com/user-attachments/assets/613aad8e-3b5e-40e1-97d0-bfcb7e71f3bd" />
 
