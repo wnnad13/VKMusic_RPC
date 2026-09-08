@@ -1,4 +1,5 @@
 # VKMusic_RPC
+<img width="1024" height="1024" alt="VMR logo" src="https://github.com/user-attachments/assets/6b92a1b8-a21a-4411-b985-c7d2716f5d06" />
 
 Интеграция дискорда с ВК Музыкой, трек, исполнитель, обложка, кликабельная ссылка
 
