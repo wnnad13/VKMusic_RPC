@@ -23,6 +23,7 @@ API, ботов VK или сторонних серверов нет — вся 
 
 <img width="288" height="98" alt="изображение" src="https://github.com/user-attachments/assets/613aad8e-3b5e-40e1-97d0-bfcb7e71f3bd" />
 
+<img width="400" height="200" alt="изображение" src="https://github.com/user-attachments/assets/63e66455-1eef-417f-ae47-fecf84d7c279" />
 
 
 ## Установка (готовая сборка)
