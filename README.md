@@ -29,12 +29,14 @@ API, ботов VK или сторонних серверов нет — вся 
 
 **Firefox** — установить подписанный `.xpi` из
 [Releases](../../releases).
+<img width="618" height="131" alt="изображение" src="https://github.com/user-attachments/assets/b0726ff0-f687-48e7-b430-bc1dd62bdf91" />
 
 **Chrome / Edge** — скачать и распаковать `vkrpc-extension-chrome` из
 [Releases](../../releases):
 
 1. `chrome://extensions` → включить «Режим разработчика»
 2. «Загрузить распакованное расширение» → выбрать распакованную папку
+<img width="418" height="231" alt="изображение" src="https://github.com/user-attachments/assets/139faa6b-b987-4113-baf0-3527e65a1852" />
 
 ### Приложение
 
