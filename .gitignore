@@ -5,10 +5,13 @@ __pycache__/
 build/
 dist/
 
-VKM RPC.exe
+VKMusic_RPC.exe
 
 config.txt
 vkrpc.log
 
 vkrpc-extension/web-ext-artifacts/
 vkrpc-extension/.amo-upload-uuid
+
+*.7z
+*.zip
